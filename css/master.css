@@ -462,6 +462,9 @@ p {
     p {
         font-size: 13px;
     }
+    .slider__btn {
+        margin-top: 10px;
+    }
 }
 
 
